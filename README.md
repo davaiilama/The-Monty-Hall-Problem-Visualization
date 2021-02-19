@@ -1,4 +1,4 @@
-# The-Monty-Hall-Problem-Visualization# The-Monty-Hall-Problem-Visualization
+# The-Monty-Hall-Problem-Visualization
 
 
 The Monty Hall problem is named for its similarity to the Let's Make a Deal television game show hosted by Monty Hall. The problem is statement is as follows.
